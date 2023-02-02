@@ -8,6 +8,9 @@
 import SwiftUI
 
 public struct MDButton: View {
+
+    init() {}
+
     public var body: some View {
         Button(action: {
             print("Action tapped")
