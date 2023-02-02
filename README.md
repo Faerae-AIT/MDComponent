@@ -1,2 +1,3 @@
 # MDComponent
-MDComponent SwiftUI
+
+A description of this package.
